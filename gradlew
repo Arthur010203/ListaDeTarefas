@@ -27,7 +27,8 @@ cd "$SAVED" >/dev/null
 APP_NAME="Gradle"
 APP_BASE_NAME=`basename "$0"`
 
-# Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
+# 
+Adicione as opções padrão da JVM aqui. Você também pode usar JAVA_OPTS e GRADLE_OPTS para passar as opções da JVM para este script.
 DEFAULT_JVM_OPTS=""
 
 # Use the maximum available, or set MAX_FD != -1 to use that value.
